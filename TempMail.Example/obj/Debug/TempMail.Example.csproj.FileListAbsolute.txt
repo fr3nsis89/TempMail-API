@@ -1,0 +1,17 @@
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail.API\TempMail.Example\obj\Debug\TempMail.Example.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail.API\TempMail.Example\obj\Debug\TempMail.Example.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\obj\Debug\TempMail.Example.csprojAssemblyReference.cache
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\obj\Debug\TempMail.Example.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\TempMail.Example.exe.config
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\TempMail.Example.exe
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\TempMail.Example.pdb
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\TempMail.API.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\CloudFlareUtilities.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\MimeKit.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\bin\Debug\TempMail.API.pdb
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\obj\Debug\TempMail.Example.csproj.CopyComplete
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\obj\Debug\TempMail.Example.exe
+C:\Users\Francesco\Desktop\Temp-Mail.org\TempMail-API (CloudFlare)\TempMail.Example\obj\Debug\TempMail.Example.pdb
