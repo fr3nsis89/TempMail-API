@@ -1,5 +1,5 @@
 # TempMail-API
-Unofficial API for [TempMail](https://temp-mail.org) in .NET
+Unofficial API for [TempMail](https://temp-mail.org) in .NET Standard
 
 # Usage
 ```csharp
@@ -27,8 +27,9 @@ tempMail.Delete();
 // To get the current email account
 string email = tempMail.Email;
 ```
-# Supported Platforms
+# Building Code
 [.NET Standard 2.0](https://github.com/dotnet/standard/blob/master/docs/versions.md)
+[.NET Framework 4.6]
 
 # Dependencies
 * [CloudFlare Utilities](https://github.com/elcattivo/CloudFlareUtilities)
