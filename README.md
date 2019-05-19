@@ -28,7 +28,7 @@ tempMail.Delete();
 string email = tempMail.Email;
 ```
 # Building Code
-[.NET Standard 2.0](https://github.com/dotnet/standard/blob/master/docs/versions.md) and [.NET Framework 4.6]
+[.NET Standard 2.0](https://github.com/dotnet/standard/blob/master/docs/versions.md) and .NET Framework 4.6
 
 # Dependencies
 * [CloudFlare Utilities](https://github.com/elcattivo/CloudFlareUtilities)
