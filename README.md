@@ -18,7 +18,7 @@ tempMail.ChangeEmail("loginexample", domains[0]);
 // To get a new temporary email with a specific login@domain
 tempMail = new TempMailClient("loginexample", domains[0]);
 
-// To get a new temporary email with with login and random domain
+// To get a new temporary email with login and random available domain
 tempMail = new TempMailClient("loginexample");
 
 // To delete current email and get a new one
