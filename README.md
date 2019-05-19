@@ -1,5 +1,5 @@
 # TempMail-API
-Unofficial API for [TempMail](https://temp-mail.org) in .NET Standard
+Unofficial API for [TempMail](https://temp-mail.org) in .NET
 
 # Usage
 ```csharp
