@@ -1,0 +1,15 @@
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\TempMail.Example.exe.config
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\TempMail.Example.exe
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\TempMail.Example.pdb
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\TempMail.API.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\HtmlAgilityPack.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\MimeKit.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\CloudFlareUtilities.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\bin\Release\TempMail.API.pdb
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\obj\Release\TempMail.Example.csprojAssemblyReference.cache
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\obj\Release\TempMail.Example.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\obj\Release\TempMail.Example.csproj.CopyComplete
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\obj\Release\TempMail.Example.exe
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.Example\obj\Release\TempMail.Example.pdb

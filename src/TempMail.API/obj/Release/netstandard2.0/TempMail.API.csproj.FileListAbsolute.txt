@@ -1,0 +1,8 @@
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\bin\Release\netstandard2.0\TempMail.API.deps.json
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\bin\Release\netstandard2.0\TempMail.API.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\bin\Release\netstandard2.0\TempMail.API.pdb
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\obj\Release\netstandard2.0\TempMail.API.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\obj\Release\netstandard2.0\TempMail.API.AssemblyInfoInputs.cache
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\obj\Release\netstandard2.0\TempMail.API.AssemblyInfo.cs
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\obj\Release\netstandard2.0\TempMail.API.dll
+C:\Users\Francesco\Documents\GitHub\TempMail-API\src\TempMail.API\obj\Release\netstandard2.0\TempMail.API.pdb
