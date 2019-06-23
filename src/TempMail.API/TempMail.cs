@@ -46,10 +46,10 @@ namespace TempMail
                 return;
             if (domain != null && !AvailableDomains.Contains(Functions.NormalizeDomain(domain)))
                 throw new Exception(string.Format("The domain you entered is not an available domain: {0}", domain));
-            if (IsInvalidLogin(login, domain))
-                return;
             if (domain == null)
                 domain = AvailableDomains[new Random().Next(0, AvailableDomains.Count)];
+			if (IsInvalidLogin(login, domain))
+                return;
 
             ChangeEmail(login, domain);
         }
